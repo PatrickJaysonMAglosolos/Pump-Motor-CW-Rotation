@@ -5,4 +5,10 @@ this is the detailed drawings for pump and motor
 
 <img width="957" height="615" alt="image" src="https://github.com/user-attachments/assets/521b3f3e-f716-45ff-9a39-a46c031b8269" />
 
+<img width="342" height="225" alt="image" src="https://github.com/user-attachments/assets/c057c805-108f-4397-aefb-21e4996bf5b2" />
+
+<img width="772" height="495" alt="image" src="https://github.com/user-attachments/assets/7e975c8b-d20b-43d8-8656-a9869474d14b" />
+
+
+
 
